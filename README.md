@@ -2,4 +2,4 @@
 Lab 3 - Elegant Archimenides
 
 Project Team Members:
-Ashyr Helton
+
