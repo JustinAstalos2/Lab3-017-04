@@ -2,4 +2,8 @@
 Lab 3 - Elegant Archimenides
 
 Project Team Members:
+<<<<<<< HEAD
+Gareth Rader
+=======
 
+>>>>>>> main
