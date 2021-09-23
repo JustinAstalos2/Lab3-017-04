@@ -2,8 +2,10 @@
 Lab 3 - Elegant Archimenides
 
 Project Team Members:
-<<<<<<< HEAD
-Jisoo Park
-=======
 
->>>>>>> main
+Jisoo Park
+
+Gareth Rader
+
+Ashyr Helton
+
